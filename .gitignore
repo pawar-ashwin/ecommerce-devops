@@ -1,0 +1,16 @@
+node_modules/
+*.env
+dist/
+.DS_Store
+.env.local
+.env.development
+.env.production
+*.log
+*.pid
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+.idea/
+.vscode/
+*.swp
